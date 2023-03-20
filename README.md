@@ -48,4 +48,4 @@ ai contribute cho cái project này thì sẽ đc list trong đây :D
 
 ## license 
 
-WTF THẰNG NÀO THÊM VÀO COI TẠI SAO LẠI DELL CÓ
+[GNU General Public License v3.0](https://github.com/tunglamnoob6719/Auto-Reg-Heromc/blob/main/LICENSE)
