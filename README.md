@@ -15,6 +15,7 @@ Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
 ## Contributing ( Đóng góp )
 
 Xin vui lòng dms tunglamnoob#6719 để đóng góp. Xin cảm ơn!
+
 Fork & Pull request?
 
 ## Contributors
