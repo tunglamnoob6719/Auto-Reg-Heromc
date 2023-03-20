@@ -1,7 +1,7 @@
 # Basic id.heromc.net Auto-Register
-![GitHub contributors](https://img.shields.io/github/contributors/tunglamnoob/Auto-Register-Heromc)
-![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob/Auto-Register-Heromc)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/tunglamnoob/Auto-Register-Heromc/Beta/total)
+![GitHub contributors](https://img.shields.io/github/contributors/tunglamnoob6719/Auto-Register-Heromc)
+![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob6719/Auto-Register-Heromc)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/tunglamnoob6719/Auto-Register-Heromc/Beta/total)
 
 Tự động điền thông tin và đăng kí account cho server heromc.net
 
