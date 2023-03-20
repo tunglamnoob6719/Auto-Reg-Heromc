@@ -9,16 +9,16 @@ Tự động điền thông tin và đăng kí account cho server heromc.net
 
 Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
 
-## TODO
+## Comming Soon (Sắp được thêm vào)
 
 - Thêm requirements.txt
-- Thêm phần giải
+- Thêm phần giải recaptcha
 
-## Contributing ( Đóng góp )
+## Contributing (Đóng góp Project)
 
 Xin vui lòng dms tunglamnoob#6719 để đóng góp. Xin cảm ơn!
 
-## Contributors
+## Contributors (Những người đóng góp nên Project này)
 
 - [anhtlauncher](https://github.com/anhtlauncher): README.md, 1 số thứ
 - Dante : Autoreg base
