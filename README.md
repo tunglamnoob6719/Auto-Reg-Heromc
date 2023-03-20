@@ -1,7 +1,7 @@
 # Auto-Register-Heromc
-![GitHub contributors](https://img.shields.io/github/contributors/tunglamnoob/Auto-Register-Heromc)
-![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob/Auto-Register-Heromc)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/tunglamnoob/Auto-Register-Heromc/Beta/total)
+![GitHub contributors](https://img.shields.io/github/contributors/tunglamnoob6719/Auto-Reg-Heromc)
+![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob6719/Auto-Reg-Heromc)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/tunglamnoob6719/Auto-Reg-Heromc/Releases/total)
 
 Tự động điền thông tin và đăng kí account cho server heromc.net
 
@@ -9,16 +9,16 @@ Tự động điền thông tin và đăng kí account cho server heromc.net
 
 Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
 
-## Comming Soon (Sắp được thêm vào)
+## TODO
 
 - Thêm requirements.txt
-- Thêm phần giải recaptcha
+- Thêm phần giải
 
-## Contributing (Đóng góp Project)
+## Contributing ( Đóng góp )
 
 Xin vui lòng dms tunglamnoob#6719 để đóng góp. Xin cảm ơn!
 
-## Contributors (Những người đóng góp nên Project này)
+## Contributors
 
 - [anhtlauncher](https://github.com/anhtlauncher): README.md, 1 số thứ
 - Dante : Autoreg base
