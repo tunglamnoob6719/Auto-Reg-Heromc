@@ -25,4 +25,4 @@ Fork & Pull request?
 - [tunglamnoob6719](https://github.com/tunglamnoob6719): Publisher, cũng 1 số thứ và tutorial trong discord
 - RiceUser : Codes
 
-## Based on GNU General Public License v3.0
+## Based on [GNU General Public License v3.0](https://github.com/tunglamnoob6719/Auto-Reg-Heromc/blob/main/LICENSE)
