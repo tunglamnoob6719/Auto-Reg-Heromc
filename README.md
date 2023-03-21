@@ -39,3 +39,5 @@ Hiện đang cần người có am hiểu về captcha
 - RiceUser : Codes
 
 ## Based on [GNU General Public License v3.0](https://github.com/tunglamnoob6719/Auto-Reg-Heromc/blob/main/LICENSE)
+
+DM skidders
