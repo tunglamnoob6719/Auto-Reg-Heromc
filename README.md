@@ -12,6 +12,12 @@ Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
 
 Nếu đã vào server rồi thì vào [channel này](https://discord.com/channels/991243015010127914/1086989148650483802)
 
+## settings.json
+username là tên trong minecraft của bạn muốn generate, password là password mà bạn muốn để login trong server.
+Ví dụ:
+
+<img src="settingexample.png" align="center" />
+
 ## TODO
 
 - Thêm requirements.txt
