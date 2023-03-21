@@ -20,6 +20,8 @@ Xin vui lòng dms tunglamnoob#6719 để đóng góp. Xin cảm ơn!
 
 Fork & Pull request?
 
+Hiện đang cần người có am hiểu về captcha
+
 ## Contributors
 
 - [anhtlauncher](https://github.com/anhtlauncher): README.md, 1 số thứ
