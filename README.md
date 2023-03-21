@@ -16,7 +16,7 @@ Nếu đã vào server rồi thì vào [channel này](https://discord.com/channe
 username là tên trong minecraft của bạn muốn generate, password là password mà bạn muốn để login trong server.
 Ví dụ:
 
-<img src="settingexample.png" align="center" />
+<img src="settingexample.png" align="center" width="346" height="263"/>
 
 ## TODO
 
