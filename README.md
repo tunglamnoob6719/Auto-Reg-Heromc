@@ -7,6 +7,8 @@ Tự động điền thông tin và đăng kí account cho server heromc.net
 
 Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
 
+Nếu đã vào server rồi thì vào [channel này](https://discord.com/channels/991243015010127914/1086989148650483802)
+
 ## TODO
 
 - Thêm requirements.txt
