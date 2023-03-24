@@ -1,4 +1,4 @@
-# Auto-Register-Heromc (Discontinued)
+# Auto-Register-Heromc (Recontinued)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob6719/Auto-Reg-Heromc)
 ![GitHub](https://img.shields.io/github/license/tunglamnoob6719/Auto-Reg-Heromc)
 ![GitHub issues](https://img.shields.io/github/issues-raw/tunglamnoob6719/Auto-Reg-Heromc)
@@ -39,4 +39,3 @@ Hiện đang cần người có am hiểu về captcha
 
 ## Based on [GNU General Public License v3.0](https://github.com/tunglamnoob6719/Auto-Reg-Heromc/blob/main/LICENSE)
 
-# Cảm ơn các bạn đã ủng hộ project này!
