@@ -7,20 +7,11 @@
 Tự động điền thông tin và đăng kí account cho server heromc.net
 
 ## Installation (Cài đặt)
+Bạn chỉ cần bấm vào file "Auto-Final.py" và nó sẽ tự cài đặt các thư viện cần thiết cho bạn!
 
-Vào server https://discord.gg/gzWSyRR6zS để biết cách cài đặt!
+## Note (Lưu ý)
+Bạn cần cài đặt Python 3.10.10 và cần bấm vào lựa chọn: Add Python to PATH để có thể sử dụng
 
-
-## settings.json
-username là tên trong minecraft của bạn muốn generate, password là password mà bạn muốn để login trong server.
-Ví dụ:
-
-<img src="settingexample.png" align="center" width="346" height="263"/>
-
-## TODO
-
-- Thêm requirements.txt
-- Thêm phần giải
 
 ## Contributing ( Đóng góp )
 
