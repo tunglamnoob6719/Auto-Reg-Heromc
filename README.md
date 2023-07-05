@@ -1,4 +1,4 @@
-# Auto-Register-Heromc (Recontinued)
+# Auto-Register-Heromc
 ![GitHub last commit](https://img.shields.io/github/last-commit/tunglamnoob6719/Auto-Reg-Heromc)
 ![GitHub](https://img.shields.io/github/license/tunglamnoob6719/Auto-Reg-Heromc)
 ![GitHub issues](https://img.shields.io/github/issues-raw/tunglamnoob6719/Auto-Reg-Heromc)
